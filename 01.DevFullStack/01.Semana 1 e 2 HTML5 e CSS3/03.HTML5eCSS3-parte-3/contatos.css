@@ -55,14 +55,18 @@ main {
 }
 
 form {
-  margin: 40px 0;
+  margin: 60px 0;
+}
+
+fieldset {
+  border: none;
 }
 
 form label,
-p {
+form legend {
   display: block;
   font-size: 20px;
-  margin: 0 0 10px;
+  padding-top: 7px;
 }
 
 .input-padrao {
