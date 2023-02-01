@@ -11,7 +11,7 @@
 
 <h3>:star: Descrição do Projeto</h3>
  
-Website de um barbearia desenvolvido através do Bootcamp Boticário onde utilizamos a plataforma da Alura para os estudos, e tem como objetivo ensinar os primeiros passos com desenvolvimento web.
+Website de uma barbearia desenvolvido através do Bootcamp Boticário onde utilizamos a plataforma da Alura para os estudos, e tem como objetivo ensinar os primeiros passos com desenvolvimento web.
 
 <h3>:heavy_check_mark:Tecnologias utilizadas</h3>
 
