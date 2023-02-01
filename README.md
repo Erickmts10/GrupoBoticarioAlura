@@ -29,7 +29,7 @@ Repositório criado para acompanhar o cronograma e salvar os projetos feitos atr
 * desenvolva um jogo e pratique lógica de programação	
 * pratique lógica com desenhos,animações e um jogo
 	
-🌟2: __Arquitetura de computadores__
+:star2: __Arquitetura de computadores__
 * Por trás de como seu programa funciona	
 
 :star2: __JavaScript__
