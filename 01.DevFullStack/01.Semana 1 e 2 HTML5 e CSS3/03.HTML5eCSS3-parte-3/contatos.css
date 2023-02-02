@@ -79,6 +79,27 @@ form legend {
 .checkbox {
   margin: 20px 0;
 }
+.novidades {
+  margin-bottom: 20px;
+  font-size: 20px;
+}
+.enviar {
+  width: 40%;
+  margin-top: 15px;
+  padding: 15px 0;
+  background: orange;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  border: none;
+  border-radius: 5px;
+  transition: 5, 0s background;
+  cursor: pointer;
+}
+
+.enviar:hover {
+  background: darkorange;
+}
 
 footer {
   text-align: center;
