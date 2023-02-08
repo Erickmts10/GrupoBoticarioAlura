@@ -47,6 +47,7 @@ nav a {
 nav a:hover {
   color: #c78c19;
   text-decoration: underline;
+  text-shadow: 2px 2px #000000;
 }
 
 main {
@@ -95,11 +96,13 @@ form legend {
   border-radius: 5px;
   transition: 1s all;
   cursor: pointer;
+  text-shadow: 2px 2px #000000;
 }
 
 .enviar:hover {
   background: darkorange;
   transform: scale(1.2);
+  
 }
 table {
   margin: 20px 0 40px;
@@ -126,4 +129,44 @@ footer {
 .copyright {
   color: #ffffff;
   font-size: 16px;
+}
+
+@media screen and (max-width: 480px){ 
+  .caixa, .navegacao,main,  img{
+    width: auto;
+    margin: 0;
+    padding: 0;
+    
+  }
+  h1 {
+    text-align: center;
+    margin: 0 auto;
+  }
+  .navegacao {
+    text-align: center;
+    padding-bottom: 40px;
+  }
+  nav {
+    position: static;
+  }
+  .input-padrao {
+    width: auto;
+    margin: 0px 20px 24px;
+  }
+  .input-padrao-msg {
+    width: 230px;
+    margin: 0px 20px 24px;
+  }
+
+  form label {
+    padding: 8px 0px 5px 20px;
+  }
+  .enviar {
+    margin: 0% 30% 0% 30%;
+  }
+  table {
+    margin: 0% 30% 0% 30%;
+  }
+  
+  
 }

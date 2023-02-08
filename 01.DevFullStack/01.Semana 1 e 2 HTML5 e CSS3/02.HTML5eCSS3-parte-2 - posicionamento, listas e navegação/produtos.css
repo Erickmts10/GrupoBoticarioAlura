@@ -47,6 +47,7 @@ nav a {
 nav a:hover {
   color: #c78c19;
   text-decoration: underline;
+  text-shadow: 2px 2px #000000;
 }
 
 .produtos {
@@ -102,4 +103,31 @@ footer {
 .copyright {
   color: #ffffff;
   font-size: 16px;
+}
+
+@media screen and (max-width: 480px){ 
+  .caixa, .produtos{
+    width: auto;
+    margin: 0;
+    padding: 0;
+  }
+  h1 {
+    text-align: center;
+    
+  }
+  .navegacao {
+    text-align: center;
+    padding-bottom: 40px;
+  }
+  nav {
+    position: static;
+  }
+  .produtos li {
+    width: auto;
+    display: block;
+    margin: 30px 20px 30px 20px;
+    align-items: center;
+
+  }
+ 
 }
