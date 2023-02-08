@@ -5,8 +5,8 @@ Repositório criado para acompanhar o cronograma e salvar os projetos feitos atr
 * A primeira página da Web  :heavy_check_mark:	
 * Posicionamento, listas e navegação :heavy_check_mark:
 * Trabalhando com formulários e tabelas :runner:
-* Avançando no CSS	
-* Posicione elementos na tela	
+* Avançando no CSS	:heavy_check_mark:
+* Posicione elementos na tela	:runner:
 * Trabalhando com layouts mobile	
 
 :star2: __Figma__
