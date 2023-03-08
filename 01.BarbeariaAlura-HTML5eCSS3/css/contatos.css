@@ -21,8 +21,12 @@ header {
 }
 .caixa {
   position: relative;
-  width: 940px;
+  width: auto;
   margin: 0 auto;
+}
+.navegacao {
+  display: flex;
+  justify-content: space-around;
 }
 nav {
   position: absolute;
@@ -51,8 +55,8 @@ nav a:hover {
 }
 
 main {
-  width: 940px;
-  margin: 0 auto;
+  width: auto;
+  margin: auto;
 }
 
 form {
@@ -71,6 +75,13 @@ form legend {
 }
 
 .input-padrao {
+  display: block;
+  margin: 0 0 20px;
+  padding: 10px 25px;
+  width: 50%;
+}
+
+.input-padrao-msg {
   display: block;
   margin: 0 0 20px;
   padding: 10px 25px;
@@ -102,7 +113,6 @@ form legend {
 .enviar:hover {
   background: darkorange;
   transform: scale(1.2);
-  
 }
 table {
   margin: 20px 0 40px;
@@ -122,7 +132,7 @@ th {
 
 footer {
   text-align: center;
-  background: url('../00.imagens/bg.jpg');
+  background: url('../imagens/bg.jpg');
   padding: 40px 0;
 }
 
@@ -131,14 +141,21 @@ footer {
   font-size: 16px;
 }
 
-@media screen and (max-width: 480px){ 
-  .caixa, .navegacao,main,  img{
+@media screen and (max-width: 480px) {
+  
+  .caixa,
+  .navegacao,
+  .main,
+  .img {
     width: auto;
     margin: 0;
     padding: 0;
-    
   }
   h1 {
+    text-align: center;
+    margin: 0 auto;
+  }
+  .mainForm {
     text-align: center;
     margin: 0 auto;
   }
@@ -150,16 +167,16 @@ footer {
     position: static;
   }
   .input-padrao {
-    width: auto;
-    margin: 0px 20px 24px;
+    text-align: center;
+    margin: 0px auto;
   }
   .input-padrao-msg {
-    width: 230px;
-    margin: 0px 20px 24px;
+    text-align: center;
+    margin: 0px auto;
   }
 
   form label {
-    padding: 8px 0px 5px 20px;
+    padding: 8px 20px 10px 10px;
   }
   .enviar {
     margin: 0% 30% 0% 30%;
@@ -167,6 +184,4 @@ footer {
   table {
     margin: 0% 30% 0% 30%;
   }
-  
-  
 }

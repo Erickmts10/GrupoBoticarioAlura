@@ -31,4 +31,4 @@ Website de uma barbearia desenvolvido através do Bootcamp Boticário onde utili
 <h5>Posicionamento de Elementos e suas propriedades:heavy_check_mark:</h5>
 <h5>Efeitos de transição, transparencia e Sombreamento:heavy_check_mark:</h5>
 <h5>Alterações de cores utilizando hexadecima e rgba:heavy_check_mark:</h5>
-<h5>Utilização de links externos, para adição de videos e mapas:githeavy_check_mark:</h5>
+<h5>Utilização de links externos, para adição de videos e mapas:heavy_check_mark:</h5>
