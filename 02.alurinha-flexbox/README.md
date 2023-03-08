@@ -2,8 +2,7 @@
 <h1 align="center"> Projeto Alurinha </h1>
 
 
- ![logo barbearia Alura](https://user-images.githubusercontent.com/81599139/216068968-80126527-1114-4f9a-90e4-9c78da355aad.png)
-
+ ![02.alurinha-flexbox/img/logos/Logo.png](https://github.com/Erickmts10/GrupoBoticarioAlura/blob/main/02.alurinha-flexbox/img/logos/lapis.png)
 
 
 <h3>:star: Descrição do Projeto</h3>
@@ -31,6 +30,6 @@ Desenvolvida com o objetivo de aperfeiçoar, as propriedades de Flexbox com posi
 <h5> Posicionamento de Elementos e suas propriedades :heavy_check_mark:</h5>
 <h5> Responsividade para dispositivos moveis :heavy_check_mark:</h5>
 <h5> aplicabilidade do Media queries para diversas telas:heavy_check_mark:</h5>
-<
+
 
 
