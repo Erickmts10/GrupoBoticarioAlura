@@ -27,8 +27,8 @@ Desenvolvida com o objetivo de aperfeiçoar, as propriedades de Flexbox com posi
 <h5>Finalizado :heavy_check_mark:</h5>
 
 <h3>:bulb: Habilidades Desenvolvidas<h3>
-<h5>Posicionamento de componentes: heavy_check_mark:</h5>
-<h5>Posicionamento de Elementos e suas propriedades :heavy_check_mark:</h5>
+<h5> Posicionamento de componentes :heavy_check_mark:</h5>
+<h5> Posicionamento de Elementos e suas propriedades :heavy_check_mark:</h5>
 <h5> Responsividade para dispositivos moveis :heavy_check_mark:</h5>
 <h5> aplicabilidade do Media queries para diversas telas:heavy_check_mark:</h5>
 <
