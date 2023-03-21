@@ -29,12 +29,12 @@ Repositório criado para acompanhar o cronograma e salvar os projetos feitos atr
 
 :star2: **HTTP:**
 
-- Entendendo a web por baixo dos panos :runner:
+- Entendendo a web por baixo dos panos :heavy_check_mark:
 
 :star2: **Javascript e HTML**
 
-- desenvolva um jogo e pratique lógica de programação
-- pratique lógica com desenhos,animações e um jogo
+- desenvolva um jogo e pratique lógica de programação :heavy_check_mark:
+- pratique lógica com desenhos,animações e um jogo :runner:
 
 :star2: **Arquitetura de computadores**
 
