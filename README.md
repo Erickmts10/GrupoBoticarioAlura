@@ -34,15 +34,15 @@ Repositório criado para acompanhar o cronograma e salvar os projetos feitos atr
 :star2: **Javascript e HTML**
 
 - desenvolva um jogo e pratique lógica de programação :heavy_check_mark:
-- pratique lógica com desenhos,animações e um jogo :runner:
+- pratique lógica com desenhos,animações e um jogo :heavy_check_mark:
 
 :star2: **Arquitetura de computadores**
 
-- Por trás de como seu programa funciona
+- Por trás de como seu programa funciona :heavy_check_mark:
 
-:star2: **JavaScript**
+:star2: **JavaScript** 
 
-- tipos, variáveis e funções
+- tipos, variáveis e funções:runner:
 - Arrays
 - objetos
 - programação orientada a objetos
