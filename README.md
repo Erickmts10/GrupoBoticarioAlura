@@ -42,9 +42,9 @@ Repositório criado para acompanhar o cronograma e salvar os projetos feitos atr
 
 :star2: **JavaScript** 
 
-- tipos, variáveis e funções:runner:
-- Arrays
-- objetos
+- tipos, variáveis e funções :heavy_check_mark:
+- Arrays :heavy_check_mark:
+- objetos :runner:
 - programação orientada a objetos
 - Crie páginas dinâmicas
 - manipulando o DOM
