@@ -44,10 +44,10 @@ Repositório criado para acompanhar o cronograma e salvar os projetos feitos atr
 
 - tipos, variáveis e funções :heavy_check_mark:
 - Arrays :heavy_check_mark:
-- objetos :runner:
-- programação orientada a objetos
-- Crie páginas dinâmicas
-- manipulando o DOM
+- objetos :heavy_check_mark:
+- programação orientada a objetos :heavy_check_mark:
+- Crie páginas dinâmicas :heavy_check_mark:
+- manipulando o DOM :runner:
 - validação de Formulários e HTML5
 - consumindo e tratando dados de uma API
 - CRUD com JavaScript assíncrono
