@@ -47,41 +47,41 @@ Repositório criado para acompanhar o cronograma e salvar os projetos feitos atr
 - objetos :heavy_check_mark:
 - programação orientada a objetos :heavy_check_mark:
 - Crie páginas dinâmicas :heavy_check_mark:
-- manipulando o DOM :runner:
-- validação de Formulários e HTML5
-- consumindo e tratando dados de uma API
-- CRUD com JavaScript assíncrono
+- manipulando o DOM :heavy_check_mark:
+- validação de Formulários e HTML5 :heavy_check_mark:
+- consumindo e tratando dados de uma API :heavy_check_mark:
+- CRUD com JavaScript assíncrono :heavy_check_mark:
 
 :star2: **SQL com MySQL**
 
-- manipule e consulte dados
-- avançando no SQL com MySQL
+- manipule e consulte dados :heavy_check_mark:
+- avançando no SQL com MySQL :heavy_check_mark:
 
 :star2: **MongoDB**
 
-- uma alternativa aos bancos relacionais tradicionais
+- uma alternativa aos bancos relacionais tradicionais :heavy_check_mark:
 
 :star2: **Nodejs**
 
-- criando sua primeira biblioteca
-- API Rest com Express e MongoDB
-- API com Sequelize e MySQL
-- avançando nas funcionalidades do Sequelize
-- autenticação com tokens
-- testes unitários e de integração
+- criando sua primeira biblioteca :heavy_check_mark:
+- API Rest com Express e MongoDB :heavy_check_mark:
+- API com Sequelize e MySQL :heavy_check_mark:
+- avançando nas funcionalidades do Sequelize :heavy_check_mark:
+- autenticação com tokens :heavy_check_mark:
+- testes unitários e de integração :heavy_check_mark:
 
 :star2: **TypeScript**
 
-- evoluindo seu JavaScript
-- avançando na linguagem
-- mais técnicas e boas práticas
-- capturando textos de forma mágica
+- evoluindo seu JavaScript :heavy_check_mark:
+- avançando na linguagem :heavy_check_mark:
+- mais técnicas e boas práticas :heavy_check_mark:
+- capturando textos de forma mágica :heavy_check_mark:
 
 :star2: **REACT**
 
-- escrevendo com Typescript
-- lidando com arquivos estáticos
-- conhecendo a biblioteca React Router
+- escrevendo com Typescript :heavy_check_mark:
+- lidando com arquivos estáticos :heavy_check_mark:
+- conhecendo a biblioteca React Router :runner:
 - integrando seu projeto React com APIs
 - gerenciando estado com Recoil
 - testando os seus componentes
