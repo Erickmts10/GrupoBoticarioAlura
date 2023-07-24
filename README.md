@@ -81,11 +81,11 @@ Repositório criado para acompanhar o cronograma e salvar os projetos feitos atr
 
 - escrevendo com Typescript :heavy_check_mark:
 - lidando com arquivos estáticos :heavy_check_mark:
-- conhecendo a biblioteca React Router :runner:
-- integrando seu projeto React com APIs
-- gerenciando estado com Recoil
-- testando os seus componentes
+- conhecendo a biblioteca React Router :heavy_check_mark:
+- integrando seu projeto React com APIs :heavy_check_mark:
+- gerenciando estado com Recoil :heavy_check_mark:
+- testando os seus componentes :heavy_check_mark:
 
 :star2: **LGPD**
 
-- Conhecendo e entendendo seus impactos
+- Conhecendo e entendendo seus impactos :heavy_check_mark:
